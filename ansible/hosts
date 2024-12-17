@@ -1,2 +1,2 @@
 [all]
-target_host ansible_host=52.236.37.229 ansible_user=azureuser
+target_host ansible_host=52.236.37.229 ansible_user=azureuser ansible_password=P@ssw0rd1234!
